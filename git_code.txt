@@ -1,2 +1,14 @@
 git init        --> initialize git in my project folder
 git add .       --> add everything from my folder to git
+git commit -m "Add whole code folder"
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+to configure our credentials:
+git config --global --list
+
+connect to github repo
+git remote add origin https://github.com/PRKS0/AI-ML.git  
+
+git reset           ---> undo everything added
