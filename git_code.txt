@@ -13,4 +13,6 @@ git remote add origin https://github.com/PRKS0/AI-ML.git
 
 git push -u origin master           ---> push everything to github repo
 
+git status                          ---> to check your status
+
 git reset           ---> undo everything added
