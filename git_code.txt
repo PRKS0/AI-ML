@@ -1,0 +1,2 @@
+git init        --> initialize git in my project folder
+git add .       --> add everything from my folder to git

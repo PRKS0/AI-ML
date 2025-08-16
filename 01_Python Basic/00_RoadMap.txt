@@ -1,0 +1,124 @@
+🚀 YOUR AI/ML ROADMAP (For the Next 6 Months)
+🔹 Month 1: Data Handling Mastery (Pandas + NumPy)
+Goal: Be confident working with real datasets.
+
+✅ What to Learn:
+Pandas: read CSV, filter, sort, group, clean
+
+NumPy: arrays, math ops, reshaping, broadcasting
+
+Learn how to explore any dataset
+
+📘 Resources:
+Kaggle’s Python & Pandas courses
+
+YouTube channels: Corey Schafer, Data School
+
+💻 Mini Projects:
+Analyze Nepal’s population, GDP, or COVID data
+
+Create a “Top YouTube Videos” analyzer using a CSV
+
+🔹 Month 2: Data Visualization + EDA (Exploratory Data Analysis)
+Goal: Understand data deeply and visually.
+
+✅ What to Learn:
+Matplotlib, Seaborn (plots, heatmaps, histograms)
+
+Correlations, distributions, outliers
+
+Building EDA reports
+
+💻 Mini Projects:
+Visualize world happiness data or sports stats
+
+Analyze mobile phone prices and their features
+
+🔹 Month 3: Machine Learning Basics (Scikit-Learn)
+Goal: Train your first real ML models!
+
+✅ What to Learn:
+Supervised Learning: Classification & Regression
+
+Algorithms: Linear Regression, KNN, Decision Trees
+
+Concepts: Train/Test Split, Accuracy, Overfitting
+
+💻 Projects:
+Predict house prices
+
+Classify Iris flowers
+
+Predict if someone has diabetes using health data
+
+🔹 Month 4: Intermediate ML + Real Use-Cases
+Goal: Go deeper into real-world problems.
+
+✅ What to Learn:
+Model Evaluation: Precision, Recall, F1, Confusion Matrix
+
+Feature Engineering
+
+Pipelines and model tuning
+
+💻 Projects:
+Spam message classifier
+
+Movie recommendation system
+
+Credit card fraud detection
+
+🔹 Month 5: Mini AI Projects + GitHub Portfolio
+Goal: Create things people can see and use.
+
+✅ What to Learn:
+Export models, save them
+
+Use Streamlit or Gradio to make web apps
+
+Upload to GitHub
+
+💻 Projects:
+AI tool to predict laptop prices
+
+Sentiment analyzer for YouTube comments
+
+Your own “ML-powered” portfolio site
+
+🔹 Month 6: Bonus: Deep Learning (Basics of Neural Networks)
+Goal: Dip your feet into real AI (the neural kind).
+
+✅ What to Learn:
+Neural Networks using TensorFlow or PyTorch
+
+Basic concepts: epochs, layers, loss, backpropagation
+
+Image and text classification
+
+💻 Projects:
+Handwriting digit recognizer (MNIST)
+
+Image classifier: cats vs dogs
+
+AI that predicts emotions from text
+
+🧠 Throughout the Journey:
+Practice on Kaggle
+
+Read papers/blogs from Medium / TowardsDataScience
+
+Post your projects on GitHub + LinkedIn
+
+Use ChatGPT (yes, me!) to help debug, learn faster
+
+🛠️ Tools You’ll Get Comfortable With:
+
+Tool	Purpose
+VS Code / Jupyter	Coding / experimenting
+Git + GitHub	Version control + portfolio
+Kaggle	Practice + data sets
+Streamlit / Gradio	Turn models into web apps
+Scikit-Learn	ML models
+Pandas, NumPy	Data prep
+Matplotlib, Seaborn	Visuals
+TensorFlow / PyTorch	Deep Learning
