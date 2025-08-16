@@ -11,4 +11,6 @@ git config --global --list
 connect to github repo
 git remote add origin https://github.com/PRKS0/AI-ML.git  
 
+git push -u origin master           ---> push everything to github repo
+
 git reset           ---> undo everything added
